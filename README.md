@@ -1,3 +1,5 @@
+![Lovell](https://github.com/DRAWilliams/drawilliams.github.io/blob/ecdcd751bc195584cf1eb3ec06fa58fd85f30139/figures/275911576_10158192491852102_7087395702249941919_n%20copy.pdf)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DRAWilliams/drawilliams.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
