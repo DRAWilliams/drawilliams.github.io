@@ -1,4 +1,4 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 #title: David Williams' homepage
 #description: Website for Dr David R A Williams
 
@@ -14,10 +14,13 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: David Williams' homepage
 
 # Your name to show in the footer
-author: Some Person
+author: David R A Williams
+
+# Description
+description: Website for Dr David R A Williams
 
 # --- List of links in the navigation bar --- #
 
