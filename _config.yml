@@ -1,6 +1,59 @@
-theme: jekyll-theme-minimal
-title: David Williams' homepage
-description: Website for Dr David R A Williams
+#theme: jekyll-theme-minimal
+#title: David Williams' homepage
+#description: Website for Dr David R A Williams
 
+#avatar: "/figures/275911576_10158192491852102_7087395702249941919_n copy.png"
+#round-avatar: true
+
+
+# Welcome to Beautiful Jekyll!
+# This config file is meant for settings that affect your entire website. When you first
+# set up your website you should go through all these settings and edit them, but after
+# the initial set up you won't need to come back to this file often.
+
+# --- Required options --- #
+
+# Name of website
+title: My Website
+
+# Your name to show in the footer
+author: Some Person
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://drawilliams.github.io/"
+
+# --- Logo --- #
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
 avatar: "/figures/275911576_10158192491852102_7087395702249941919_n copy.png"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+title-img: "/figures/275911576_10158192491852102_7087395702249941919_n copy.png"
+
+
+# --- Footer social media links --- #
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "david.williams-7@manchester.ac.uk"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: drawilliams
+  twitter: TheAstroDave
+  ORCID: 0000-0001-7361-0246
+
+
+# If you want your website to generate an RSS feed, provide a description
+# The URL for the feed will be https://<your_website>/feed.xml
+#rss-description: This website is a virtual proof that I'm awesome
