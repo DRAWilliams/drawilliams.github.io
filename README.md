@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-![Lovell](./figures/188900281_10157702375437102_7982515067396528773_n.jpeg)
+![Me in front of the Knockin telescope](./figures/188900281_10157702375437102_7982515067396528773_n.jpeg)
 
 ## About Me
 
