@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-![Lovell](./figures/275911576_10158192491852102_7087395702249941919_n%20copy.pdf)
+![Lovell](./figures/188900281_10157702375437102_7982515067396528773_n.jpeg)
 
 ## About Me
 
